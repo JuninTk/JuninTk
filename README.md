@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JuninTk
-- 👀 I’m interested in nem projets and experience
+- 👀 I’m interested in new projets and experience
 - 🌱 I’m currently learning C# and HTML,CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me,my gmail is juninhojkhu@gmail.com
